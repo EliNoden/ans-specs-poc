@@ -7,19 +7,19 @@
     "type": "object",
     "title": "resourcesEngagement",
     "required": [
-        "resourcessssss"
+        "resources"
     ],
     "properties": {
         "resourcessssss": {
             "type": "array",
             "items": {
-                "$ref": "#/definitions/resourcessssss"
+                "$ref": "#/definitions/resources"
             },
             "minItems": 1
         }
     },
     "definitions": {
-        "resourcessssss": {
+        "resources": {
             "type": "object",
             "title": "Ressource",
             "x-display": "expansion-panels",
