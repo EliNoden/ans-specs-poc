@@ -13,6 +13,7 @@
         "caseId": {
             "type": "string",
             "title": "Identifiant affaire/dossier",
+            
             "x-health-only": false,
             "x-cols": 6,
             "example": "example.json#/caseId",
