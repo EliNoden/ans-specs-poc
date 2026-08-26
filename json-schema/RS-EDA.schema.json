@@ -1,5 +1,5 @@
 {
-    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$schema": "toto.com",
     "$id": "classpath:/json-schema/schema#",
     "x-id": "RS-EDA.schema.json#",
     "version": "26.08.14",
