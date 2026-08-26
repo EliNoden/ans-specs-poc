@@ -13,7 +13,7 @@
         "caseId": {
             "type": "string",
             "title": "Identifiant affaire/dossier",
-            
+            "x-betenclature": "toto.com",
             "x-health-only": false,
             "x-cols": 6,
             "example": "example.json#/caseId",
