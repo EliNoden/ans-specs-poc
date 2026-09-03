@@ -94,7 +94,7 @@
                 },
                 "freetext": {
                     "type": "string",
-                    "title": "Précisions sur la réponse",
+                    "title": "Précisions sur la/les réponse(s)",
                     "x-health-only": false,
                     "x-cols": 6,
                     "example": "example.json#/response/freetext",
